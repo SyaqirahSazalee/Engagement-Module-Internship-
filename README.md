@@ -1,6 +1,8 @@
 # Engagement-Module-Internship-
 
-You may only pay attention on those codes in Class directory 
+Pay attention on those codes in:
+
+Class directory 
 - alias_to.php
 - comment.php
 - comment_alias.php
@@ -10,3 +12,7 @@ You may only pay attention on those codes in Class directory
 - recognition.php
 - tag.php
 - tag_apply.php
+
+Includes directory
+- form.php
+- navbar-new.php
